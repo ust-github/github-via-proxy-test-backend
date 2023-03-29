@@ -3,6 +3,7 @@ library identifier: 'sf-shared-library@gitlab-jenkins-library', retriever: moder
    remote: 'https://gitlab.dagility.com/solution-factory/sf-jenkins-libraries-mirror',
    credentialsId: '7335ace5-7a38-40d6-9cc6-f0169a6fca2c'])
 
+
 securityBaseline{
   GitCredentialsId = "7335ace5-7a38-40d6-9cc6-f0169a6fca2c"
   GitBranch = "master"
